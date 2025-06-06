@@ -137,9 +137,5 @@ Navigate to `http://127.0.0.1:8050/` in your browser.
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contact
-For questions or contributions, please open an issue or pull request on GitHub, or contact:
 
-- **Lead Data Scientist:** Jane Doe (jane.doe@example.com)  
-- **Project Repo:** https://github.com/Intellihack-TeamX/Customer-Segmentation-for-E-commerce
 
